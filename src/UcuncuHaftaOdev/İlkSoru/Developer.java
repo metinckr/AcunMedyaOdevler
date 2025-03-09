@@ -1,4 +1,4 @@
-package odev3.İlkSoru;
+package UcuncuHaftaOdev.İlkSoru;
 
 public class Developer extends Employee {
     private String about;

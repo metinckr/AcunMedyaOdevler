@@ -1,4 +1,4 @@
-package odev3.ınterfaceornek2;
+package UcuncuHaftaOdev.ınterfaceornek2;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package odev3.AbstractClassOrnek;
+package UcuncuHaftaOdev.AbstractClassOrnek;
 
 public class Cat extends Animal {
     public Cat(String name, int age, String gender) {

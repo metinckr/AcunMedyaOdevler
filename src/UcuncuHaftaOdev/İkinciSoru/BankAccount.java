@@ -1,4 +1,4 @@
-package odev3.İkinciSoru;
+package UcuncuHaftaOdev.İkinciSoru;
 
 public abstract class BankAccount {
     String accountHolder;

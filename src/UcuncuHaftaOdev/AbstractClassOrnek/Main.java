@@ -1,4 +1,4 @@
-package odev3.AbstractClassOrnek;
+package UcuncuHaftaOdev.AbstractClassOrnek;
 
 public class Main {
     public static void main(String[] args) {

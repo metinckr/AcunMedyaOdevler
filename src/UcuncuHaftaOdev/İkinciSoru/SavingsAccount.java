@@ -1,4 +1,4 @@
-package odev3.İkinciSoru;
+package UcuncuHaftaOdev.İkinciSoru;
 
 public class SavingsAccount extends BankAccount {
     public SavingsAccount(String accountHolder, double balance) {

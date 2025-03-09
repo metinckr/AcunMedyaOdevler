@@ -1,4 +1,4 @@
-package odev3.InterfaceOrnek;
+package UcuncuHaftaOdev.InterfaceOrnek;
 
 public class Main {
     public static void main(String[] args) {
@@ -8,7 +8,7 @@ public class Main {
 
         PaymentMethod digitalWallet = new DigitalWalletPayment();
         System.out.println(digitalWallet.getPaymentDetails());
-        digitalWallet.processPayment(125547.50);
+        digitalWallet.processPayment(125547063);
 
         System.out.println("Ödemeler başarıyla tamamlandı!");
     }

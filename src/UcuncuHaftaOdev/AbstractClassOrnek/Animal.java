@@ -1,4 +1,4 @@
-package odev3.AbstractClassOrnek;
+package UcuncuHaftaOdev.AbstractClassOrnek;
 
 public abstract class Animal {
     private String name;

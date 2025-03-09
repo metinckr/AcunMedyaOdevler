@@ -1,4 +1,4 @@
-package odev3.İlkSoru;
+package UcuncuHaftaOdev.İlkSoru;
 
 public class Maincik {
     public static void main(String[] args) {

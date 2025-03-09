@@ -1,4 +1,4 @@
-package odev3.AbstractClassOrnek2;
+package UcuncuHaftaOdev.AbstractClassOrnek2;
 
 public class Doctor extends Worker{
     private String policlinic;

@@ -1,4 +1,4 @@
-package odev3.InterfaceOrnek;
+package UcuncuHaftaOdev.InterfaceOrnek;
 
 public interface PaymentMethod {
     void processPayment(double amount);
